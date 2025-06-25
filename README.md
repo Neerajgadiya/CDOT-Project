@@ -26,7 +26,7 @@ An internal tool for computer hardware businesses to **record, search, and manag
 git clone https://github.com/Neerajgadiya/CDOT-Project.git
 cd CDOT-Project
 npm install
-node server/index.js
+
 
 
 ---
